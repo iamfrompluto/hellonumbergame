@@ -1,0 +1,43 @@
+h1{
+ 
+  font-family: 'Raleway', sans-serif;
+  
+  }
+  h2{
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+    color:rgb(161, 179, 173) ;
+  }
+ input{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 25px;
+  text-align: center;
+  border: none;
+ }
+ 
+ h3{
+  font-family: 'PT Sans', sans-serif;
+  color:plum;
+ }
+ button{
+  font-family: 'PT Sans', sans-serif;
+  background-color: rgb(172, 222, 255);
+  border-radius: 35px; 
+  width: 100px;
+  line-height: 30px;
+  border: none;
+  margin-top: 10px;
+ }
+body{
+  background-color: #faffb1;
+}
+.card{
+  background-color:#fffcd1;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+h4{
+  font-family: 'Nunito', sans-serif;
+}
